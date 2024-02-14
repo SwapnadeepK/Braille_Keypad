@@ -49,8 +49,7 @@ This repository contains the mini-project report for the Mobile Application Deve
 
     ```bash
     git clone https://github.com/SwapnadeepK/Braille_Keypad
-    cd corona-analysis
-      ```
+    ```
 - And then run the program through Android Studio IDE along with appropriate emulator in it.
 ---
 
