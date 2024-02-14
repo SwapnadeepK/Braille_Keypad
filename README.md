@@ -37,8 +37,8 @@ This repository contains the mini-project report for the Mobile Application Deve
    - Java17 and Android Studio on Windows 11 PC used.
 
 3. **Key Features:**
-   • Braille Input: Provide a digital keypad interface that mimics the tactile layout of Braille dots. Enable users to input Braille characters by pressing the appropriate combination of keys. Support the six-dot Braille cell structure and combinations for all Braille characters and symbols. 
-   • User Interface: Design an intuitive and user-friendly interface with clear and distinguishable Braille keys. Ensure appropriate key size, spacing, and arrangement for accurate and comfortable input. Incorporate visual or tactile cues to aid users in locating and pressing the correct keys. 
+- Braille Input: Provide a digital keypad interface that mimics the tactile layout of Braille dots. Enable users to input Braille characters by pressing the appropriate combination of keys. Support the six-dot Braille cell structure and combinations for all Braille characters and symbols. 
+- User Interface: Design an intuitive and user-friendly interface with clear and distinguishable Braille keys. Ensure appropriate key size, spacing, and arrangement for accurate and comfortable input. Incorporate visual or tactile cues to aid users in locating and pressing the correct keys. 
 
 ## How to Access the Report
 
