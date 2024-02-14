@@ -2,6 +2,8 @@
 
 ## Braille Keypad
 
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+
 Submitted in partial fulfillment of requirements for the award of
 
 **BACHELOR OF ENGINEERING**  
@@ -42,8 +44,14 @@ This repository contains the mini-project report for the Mobile Application Deve
 
 ## How to Access the Report
 
-The complete mini-project report can be accessed in the [Braille Report.pdf](https://github.com/SwapnadeepK/Braille_Keypad/blob/main/MAD%20Final_merged.pdf) file.
+- The complete mini-project report can be accessed in the [Braille Report.pdf](https://github.com/SwapnadeepK/Braille_Keypad/blob/main/MAD%20Final_merged.pdf) file.
+- Or you can Clone the Repository:
 
+    ```bash
+    git clone https://github.com/SwapnadeepK/Braille_Keypad
+    cd corona-analysis
+      ```
+- And then run the program through Android Studio IDE along with appropriate emulator in it.
 ---
 
 Feel free to customize the content based on the actual details of your project and report. Adjust the file names, format, and structure as needed.
